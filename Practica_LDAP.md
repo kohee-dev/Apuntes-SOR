@@ -48,11 +48,11 @@ Lo usaremos al final para agilizar la gestión de elementos.
 
 Práctica ambientada en el siguiente relato: [Los Gatos de Uthal](https://mrpoecrafthyde.wordpress.com/wp-content/uploads/2016/02/h-p-lovecraft-los-gatos-de-ulthar.pdf)
 
-## Ejercicio I: Uthal
+## Ejercicio I: Ulthal
 
-Se dice que en Uthal, una villa más allá del rio Skai no se pueden matar gatos. Esta historia suele ser narrada generalmente por el burgomaestre, Kranon el Anciano y aunque ya ha quedado como una historia que se le cuenta a los niños antes de irse a la cama, se puede ver un ápice de terror en los ojos de dos ciudadanos Shang, el herrero y Thul, un cortador de piedras.
+Se dice que en Ulthal, una villa más allá del rio Skai no se pueden matar gatos. Esta historia suele ser narrada generalmente por el burgomaestre, Kranon el Anciano y aunque ya ha quedado como una historia que se le cuenta a los niños antes de irse a la cama, se puede ver un ápice de terror en los ojos de dos ciudadanos Shang, el herrero y Thul, un cortador de piedras.
 
-Crea un dominio `uthal.skai.world` y dos unidades organizativas `ciudadanos` y `gatos`.
+Crea un dominio `ulthal.skai.world` y dos unidades organizativas `ciudadanos` y `gatos`.
 
 Entrega un fichero `base.ldif` donde se muestre la creación de ambas unidades organizativas e indica el comando empleado. Recuerda usar `ldapadd` para añadirlos.
 
