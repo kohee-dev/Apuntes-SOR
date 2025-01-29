@@ -91,11 +91,11 @@ Una vez creado los usuarios, crea otro script llamado ldapcat.sh que añada los 
 Shang y Thul cuentan como hace varios años una pareja que vivía en una cabaña proxima al bosque se dedicaba a matar los gatos que se acercaban a su cabaña.
 No fue hasta que apareció una caravana proveniente del Sur con un extraño niño llamado Menes el cual cuidaba un gato negro.
 
-## Ejercicio V:
+## Ejercicio V: La Cabaña del Bosque
 
 Crea un script llamado cabaña.sh que borre el usuario LDAP de la unidad organizativa Gato con la UID más alta. Luego programa una tarea para que ejecute el programa cada hora.
 
-## Ejercicio VI:
+## Ejercicio VI: La Caravana
 
 Crea dos nuevos usuarios, `Menes` y `gatomenes` cada uno en su unidad organizativa correspondiente.
 
@@ -103,13 +103,13 @@ Crea dos nuevos usuarios, `Menes` y `gatomenes` cada uno en su unidad organizati
 
 Cunado el gato negro de Menes desapareció este entonó unas extrañas plegarias al cielo de las cuales aparecieron extrañas figuras sombrias. Cuando termino, la caravana se marcho y con su despedida, volvieron todos los gatos a la aldea.
 
-# Ejercicio VII:
+# Ejercicio VII: Sombras en el Cielo
 
 Crea un script `oración.sh` que revise si falta algún usuario Gato.
 
 Si `gatomenes` existe deberá imprimir ***"miau"***. Si no existe creará todos los usuarios gato que faltan salvo `gatomenes`, quitará `cabaña.sh` del crontab y borrará al usuario `Menes` del directorio LDAP y de los usuarios.
 
-## Ejercicio VIII
+## Ejercicio VIII: Otras historias
 
 Accede a las siguientes direcciones para configurar el directorio LDAP
 
