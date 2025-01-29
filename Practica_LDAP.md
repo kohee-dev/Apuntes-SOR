@@ -60,7 +60,10 @@ Entrega un fichero `base.ldif` donde se muestre la creación de ambas unidades o
 
 Crea una contraseña cifrada usando el comando `slappasswd` y utilízala para los distintos usuarios que crearemos en esta práctica.
 
-Crea un `posixAccount` y un `posixGroup` para el usuario `Kranon el Anciano` con una `UID = 1920`, para `Shang` con `UID = 1921` y para `Thul` con `UID = 1922 `
+Crea un `posixAccount` y un `posixGroup` para los siguientes usuarios:
+- `Kranon el Anciano` con  `UID = 1920`
+- `Shang` con `UID = 1921`
+- `Thul` con `UID = 1922`
 
 Entrega un user.ldif con la creación de los usuarios.
 
@@ -102,9 +105,9 @@ Cunado el gato negro de Menes desapareció este entonó unas extrañas plegarias
 
 # Ejercicio VII:
 
-Crea un script `oración.sh`, que revise si falta algún usuario Gato salvo `gatomenes` y si no existe lo creará de nuevo. Si existe `gatomenes` `oracion.sh` imprimirá ***"miau"***
+Crea un script `oración.sh` que revise si falta algún usuario Gato.
 
-Quita la tarea cabaña.sh y borra al usuario Menes
+Si `gatomenes` existe deberá imprimir ***"miau"***. Si no existe creará todos los usuarios gato que faltan salvo `gatomenes`, quitará `cabaña.sh` del crontab y borrará al usuario `Menes` del directorio LDAP y de los usuarios.
 
 ## Ejercicio VIII
 
