@@ -103,7 +103,7 @@ Crea dos nuevos usuarios, `Menes` y `gatomenes` cada uno en su unidad organizati
 
 Cunado el gato negro de Menes desapareció este entonó unas extrañas plegarias al cielo de las cuales aparecieron extrañas figuras sombrias. Cuando termino, la caravana se marcho y con su despedida, volvieron todos los gatos a la aldea.
 
-# Ejercicio VII: Sombras en el Cielo
+## Ejercicio VII: Sombras en el Cielo
 
 Crea un script `oración.sh` que revise si falta algún usuario Gato.
 
